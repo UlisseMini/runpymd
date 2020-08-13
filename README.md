@@ -7,7 +7,7 @@ I use this all the time in my notes, where I have some calculations which I want
 ## Example
 
 a.md:
-````md
+````
 Do a complex calculation
 ```py
 print(1e6 * 43.2 / 2)
@@ -17,7 +17,7 @@ print(1e6 * 43.2 / 2)
 `runpymd a.md > b.md`
 
 b.md:
-````md
+````
 Do a complex calculation
 ```py
 print(1e6 * 43.2 / 2)
